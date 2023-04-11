@@ -1,5 +1,4 @@
 - Mencoba baris pertama
 - ini adalah baris kedua
-- dan baris ketiga
 - menambahkan fitu baru login
 - menambahkan fitu register
